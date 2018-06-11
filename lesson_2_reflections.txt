@@ -4,3 +4,10 @@ The git bash creates a hidden folder named .git which will contain the metadata 
 done to the project.
 
 This is required to allow the tracking of the updates that will be saved in the form of commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area determines the files that will be included in a commit. It is different from the working
+directory and the repository in that it is a temporary area which does not exist in a concrete manner.
+
+It is useful when we are only making changes to certain files.
