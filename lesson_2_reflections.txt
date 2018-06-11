@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The git bash creates a hidden folder named .git which will contain the metadata of the commits that are
+done to the project.
+
+This is required to allow the tracking of the updates that will be saved in the form of commits.
