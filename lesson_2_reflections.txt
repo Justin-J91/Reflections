@@ -11,3 +11,9 @@ The staging area determines the files that will be included in a commit. It is d
 directory and the repository in that it is a temporary area which does not exist in a concrete manner.
 
 It is useful when we are only making changes to certain files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I believe this can be done by comparing the changes done in the working area with the staging area 
+then further comparing it with the changes done in the previous commit to make sure that the changes are
+the ones we have in mind.
