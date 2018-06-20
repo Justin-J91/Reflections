@@ -28,3 +28,8 @@ How do the diagrams help you visualize the branch structure?
 The diagrams help to visualize the non-linear nature of Git commits. This also clears up the warning
 when checking out previous commits. The diagram can also be a good reminder of the history of the changes done
 to the program.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The merging of two branches resulted in a new commit that contains the changes done to both branches up to the most
+recent commit. It is represented as a kind of coming together of two branches because that is what it does.
