@@ -6,3 +6,12 @@ Why might you want to always pull changes manually rather than having Git automa
 A manual system is preferable due to the public nature of most Git repositories. Updating automatically can cause 
 changes to our branch that might clash with the work that has been done in our local repository.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are the method of copying a repository from one Github account to another done in Githu's system.
+This method should be used when the user wants to tweak or use a program that is available in another Github user's account. This also allows for proper
+credit to be given to the creator of the repository.
+
+Clones are the method of copying a whole repository from a source online such as Github to a working station.
+This method should be used when the user wants to work on a repository in their own work station.
+
+Branches are different commit paths that can be used to differenciate the approach to a problem without alternating the main path.
