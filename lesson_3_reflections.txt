@@ -15,3 +15,8 @@ Clones are the method of copying a whole repository from a source online such as
 This method should be used when the user wants to work on a repository in their own work station.
 
 Branches are different commit paths that can be used to differenciate the approach to a problem without alternating the main path.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit is in the ability to compare via git diff the changes that has been done to the remote repository
+to the ones that are done in the local repository giving a better understanding of the work done by the collaborators.
+This will also make the merging step easier.
