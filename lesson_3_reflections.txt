@@ -27,3 +27,12 @@ types of work like simple document creating/editing since there will be no requi
 project needs to know how to use Git or Github.
 It will however be harder when collaborating in projects with multiple files and code.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Using a separate branch to make changes to a project would be done ideally when someone is working on a new feature, a new or different approach to a solution
+and to add functions among other things. This is done to make sure that the master branch is not tempered with when doing experimental
+changes that can potentially break the whole project for a time.
+
+The main advantages for doing work directly on the master branch given that the work is done correctly and
+resulted in aggreable results would be the quicker integration of the update to the whole project as working on 
+a different branch when collaborating with others means that the master can be updated at the same time which will
+introduce conflicts that will have to be dealt with later.
